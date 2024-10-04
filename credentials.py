@@ -1,0 +1,6 @@
+AZURE_OAI_ENDPOINT="https://fghgfh.openai.azure.com/"
+AZURE_OAI_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+AZURE_OAI_DEPLOYMENT="gpt-35-turbo-16k"
+AZURE_SEARCH_ENDPOINT="https://fghgfh.openai.azure.com/openai/deployments/gpt-35-turbo-16k/chat/completions?api-version=2023-03-15-preview"
+AZURE_SEARCH_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+AZURE_SEARCH_INDEX="margies-index"
